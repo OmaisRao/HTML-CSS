@@ -1,0 +1,11 @@
+body{
+   font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+fieldset{
+    background-color: rgba(23, 189, 201, 0.87); 
+}
+input{
+    background-color: rgb(18, 174, 201);
+}
